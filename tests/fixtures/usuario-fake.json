@@ -1,0 +1,7 @@
+{
+  "_id": "fake-user-id",
+  "nome": "Usuário Fake",
+  "email": "usuario.fake@example.com",
+  "password": "123456",
+  "administrador": false
+}
